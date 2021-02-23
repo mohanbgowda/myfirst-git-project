@@ -18,3 +18,6 @@ else:
 
 
    this is a basic program of factorial in python
+   
+   
+   this program wil be difficult for beginners but it was very easy if we understand it properly and clearly
